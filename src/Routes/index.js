@@ -3,7 +3,7 @@ import {createRouter, createWebHistory} from 'vue-router'
 import Homepage from "./../components/Homepage.vue"
 import products from "./../components/products.vue"
 import AboutUs  from "./../components/AboutUs.vue"
-import Contact Us from "./../components/ContactUs.vue"
+import ContactUs from "./../components/ContactUs.vue"
 import Cart from "./../components/Cart.vue"
 import ServicesOffered  from "./../components/ServicesOffered.vue"
 
@@ -43,4 +43,4 @@ const router = createRouter({
   routes, 
 })
 
-export default routerimport Homepage from "./../components/Homepage.vue"
+export default router
